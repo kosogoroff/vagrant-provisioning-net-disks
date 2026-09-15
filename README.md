@@ -3,7 +3,7 @@
 Для скачивания и запуска стенда:
 
 ```
-git clone лабораторный стенд с выполненным домашним заданием
+git clone https://github.com/kosogoroff/vagrant-provisioning-net-disks.git
 cd vagrant-provisioning-net-disks
 vagrant up
 ```
